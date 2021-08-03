@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerologyAPI", "NumerologyAPI\NumerologyAPI.csproj", "{0DD9C2F6-8514-444A-86BA-D087BA9449F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DD9C2F6-8514-444A-86BA-D087BA9449F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD9C2F6-8514-444A-86BA-D087BA9449F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD9C2F6-8514-444A-86BA-D087BA9449F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD9C2F6-8514-444A-86BA-D087BA9449F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36AD41D8-15B3-4142-A249-028B3CEB74DE}
+	EndGlobalSection
+EndGlobal
