@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "J2gqugvpfjMETja8K81woSAXx85cOrioe7wWF3Qu5xBApp40dug8Oh27ljiAIPDEKgb35Jk2BTefW6q1BbatVA==",
+  "dgSpecHash": "rKK6/BE8VSnbs0QHkh4X4Z0yZg6s1UmJvxLt/02FkNGQ075PE5oMDeuP9kkxz4082sZSL+eVunPryyyVzFVb4w==",
   "success": true,
   "projectFilePath": "D:\\Freelance\\Numerology\\NumerologyAPI\\NumerologyAPI.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,9 @@
     "C:\\Users\\Admins\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Admins\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\Admins\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\Admins\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\Admins\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\Admins\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Admins\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
   ],
   "logs": []
 }

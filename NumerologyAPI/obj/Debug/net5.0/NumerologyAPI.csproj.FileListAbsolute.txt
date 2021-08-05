@@ -56,3 +56,5 @@ D:\Freelance\Numerology\NumerologyAPI\obj\Debug\net5.0\NumerologyAPI.dll
 D:\Freelance\Numerology\NumerologyAPI\obj\Debug\net5.0\ref\NumerologyAPI.dll
 D:\Freelance\Numerology\NumerologyAPI\obj\Debug\net5.0\NumerologyAPI.pdb
 D:\Freelance\Numerology\NumerologyAPI\obj\Debug\net5.0\NumerologyAPI.genruntimeconfig.cache
+D:\Freelance\Numerology\NumerologyAPI\bin\Debug\net5.0\Unity.Abstractions.dll
+D:\Freelance\Numerology\NumerologyAPI\bin\Debug\net5.0\Unity.Container.dll
