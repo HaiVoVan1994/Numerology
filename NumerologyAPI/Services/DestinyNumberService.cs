@@ -25,12 +25,17 @@ namespace NumerologyAPI.Services
         {
             if (string.IsNullOrEmpty(fullName))
             {
-                throw new Exception("Please provide your full name");
+                throw new ArgumentException("Please provide your full name");
             }
-            //ToDo check num-alphabet
+
+            fullName = Regex.Replace(fullName, @"\s+", "").ToUpper();
+            var regex = new Regex(@"^[a-zA-Z]+$");
+            if(!regex.IsMatch(fullName)) 
+            {
+                throw new ArgumentException("Invalid name format");
+            }
 
             var number = 0;
-            fullName = Regex.Replace(fullName, @"\s+", "").ToUpper();
             for (int i = 0; i < fullName.Length; i++)
             {
                 number += CharToDestinyNumber.FirstOrDefault(val => val.Value.Contains(fullName[i].ToString())).Key;
